@@ -9,4 +9,4 @@
 ## [Website Demo]()
 
 
-![preview](https://user-images.githubusercontent.com/62913154/179400576-8f3d664c-9c3d-4eb3-a8ec-004c6aba73b6.png)
+![Desinic Mockup](https://user-images.githubusercontent.com/62913154/179400596-886b4266-fa66-479b-911b-401d949c28e8.png)
