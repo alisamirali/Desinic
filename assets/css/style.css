@@ -162,6 +162,7 @@ body {
 
 .section {
     padding-block: var(--section-padding);
+    padding-top: 10rem;
 }
 
 .section-title {
@@ -340,6 +341,10 @@ body {
     color: var(--white);
     font-size: var(--fs-8);
     margin-block-end: 30px;
+}
+
+.about {
+    padding-top: 15rem;
 }
 
 .about-banner {
